@@ -1,0 +1,18 @@
+Partlist exported from C:/Users/bhuva/AppData/Local/Temp/Neutron/ElectronFileOutput/18356/sch-97a4a485-1753-4ff7-8d1d-11e111b115d7/Schematic_v52_23 v1.sch at 26-04-2023 19:22
+
+Qty Value               Device                   Package                 Parts                              Description                                                    
+5   1200                R_CHIP-1206(3216-METRIC) RESC3216X70             R2, R3, R7, R10, R15               Resistor Fixed - Generic                                       
+5   33000               R_CHIP-1206(3216-METRIC) RESC3216X70             R4, R8, R9, R16, R18               Resistor Fixed - Generic                                       
+1   470                 R_CHIP-1206(3216-METRIC) RESC3216X70             R17                                Resistor Fixed - Generic                                       
+1   47000               R_CHIP-1206(3216-METRIC) RESC3216X70             R1                                 Resistor Fixed - Generic                                       
+1   FDN306P             FDN306P                  SSOT-3                  Q1                                 P-Channel MOSFET                                               
+2   LM324_SOIC          LM324_SOIC               SOIC127P600X175-14N     IC1, IC3                           Quad-Operational Amplifiers                                    
+1   LM7805_TO220V       LM7805_TO220V            TO220V                  IC2                                5V Voltage Regulator                                           
+1   MCP3208-BI/SL       MCP3208-BI/SL            SOIC127P600X175-16N     U4                                 IC, 12 ADC, SMD, 3208                                          
+1   MEM2051-00-195-00-A MEM2051-00-195-00-A      GCT_MEM2051-00-195-00-A J1                                 Connector, Memory Card,Micro Sd, 8 Position, 1.1mm,FullReel 
+4   PINHD-1X1           PINHD-1X1                1X01                    JP9, JP10, JP11, JP12              PIN HEADER                                                     
+6   PINHD-1X2           PINHD-1X2                1X02                    JP13, JP15, JP16, JP18, JP19, JP20 PIN HEADER                                                     
+6   PINHD-1X2/90        PINHD-1X2/90             1X02/90                 JP1, JP2, JP3, JP4, JP5, JP6       PIN HEADER                                                     
+2   PINHD-1X20          PINHD-1X20               1X20                    JP7, JP8                           PIN HEADER                                                     
+2   PINHD-1X4           PINHD-1X4                1X04                    JP17, JP21                         PIN HEADER                                                     
+1   SN74LV32ADR         SN74LV32ADR              SOIC127P600X175-14N     U6                                 None                                                           
